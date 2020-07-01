@@ -1,6 +1,8 @@
-# Vuex
+# Formation vuex
 
-## Utilisation après clonage ou téléchargement du repository
+## Après clonage ou téléchargement du repository
+
+### Installation des dépendances 
 
 Dans le dossier racine de l'application:
 
@@ -8,7 +10,7 @@ Dans le dossier racine de l'application:
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Démarrage du serveur de développment
 
 ```
 npm run serve
